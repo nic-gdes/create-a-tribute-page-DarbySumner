@@ -1,11 +1,7 @@
 body {
-    background-color: #791919;
+    background-color:#2B3837;
 }
 
-h1 {
-    font-family: "big-caslon-fb", serif;
-    font-weight: 400;
-    font-style: normal;
-    font: size 40pt;
-    color: #e0e1e2;
+.img1 {
+   border-radius: 20%;
 }
