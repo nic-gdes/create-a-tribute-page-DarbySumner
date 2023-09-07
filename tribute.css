@@ -86,3 +86,22 @@ body {
       max-width: 100%;
     }
   }
+
+  a:link {
+    color: rgb(93, 187, 212);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(228, 228, 228);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(83, 104, 186);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
